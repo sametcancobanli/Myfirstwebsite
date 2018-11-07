@@ -1,0 +1,147 @@
+body {
+		font-family: 'times', sans-serif;
+		background-color: white-space;
+		color: brown;
+		background-image: url("background.jpg");
+		background-size: 1600px , 1000px ;
+	}
+	
+.img1{
+		float:right;
+		margin:20px;
+		padding:25px;
+		text-align:center;
+		
+	}	
+
+.img2{
+		float:right;
+		margin:20px;
+		padding:25px;
+		text-align:center;
+	}
+	
+.img3{
+		
+		margin:0px;
+		text-align:center;
+		color:black;
+		float:left;
+		text-indent:100px;
+	}
+	
+.img4{
+		
+		margin:0px;
+		padding:0px;
+		text-align:center;
+		color:black;
+		float:left;
+	}
+	
+.img5{
+		
+		margin:0px;
+		padding:0px;
+		text-align:center;
+		color:black;
+		float:left;
+	}
+		
+	
+
+		
+
+h1	 {
+		color: grey;
+		font-weight: bold;
+		font-style: italic;
+		font-size: 70px;
+	}	
+
+h2	 {
+		color: white;
+		font-weight: bold;
+		font-style: italic;
+		text-indent:50px;
+		font-size: 40px;
+	}
+
+h3	 {
+		color: white;
+		font-weight: bold;
+		font-style: italic;
+		text-indent:50px;
+		font-size: 40px;
+	}
+
+h4	 {
+		color: white;
+		font-weight: bold;
+		font-style: italic;
+		text-indent:50px;
+		font-size: 40px;
+	}
+	
+h5	 {
+		color: Black;
+		font-weight: bold;
+		font-style: italic;
+		text-indent:50px;
+		font-size: 50px;
+	}
+	
+h6	 {
+		color: white;
+		font-weight: bold;
+		font-style: italic;
+		text-indent:50px;
+		font-size: 35px;
+	}
+	
+		
+
+p	 {
+		color: black;
+		font-family: times;
+		font-size: 20px;
+		text-indent:100px;
+		margin-left:20px;
+	}
+	
+	
+	
+hr	{
+	border-top-style: dotted;
+	border-top-color: black;
+	width: 30%;
+}
+
+em	{
+		color: black;
+		font-weight: bolder;
+		font-style: italic;
+	}
+	
+.info{
+		color: black ;
+		font-size: 30px;
+		font-style: italic;
+	}
+	
+
+ul	{
+		color:rebeccapurple;
+		font-size:30px;
+		text-indent:5px;
+		
+	}
+
+li	{
+		float:left;
+		position:relative;
+		margin: 20px;
+	}
+	
+	
+		
